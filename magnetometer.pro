@@ -1,4 +1,4 @@
-update=Tue 01 Nov 2016 15:43:32 MSK
+update=Wed 17 Jan 2018 16:34:57 MSK
 version=1
 last_client=kicad
 [pcbnew]
@@ -37,3 +37,13 @@ LibName5=/home/dnvetrov/git/Open-Laboratory/kicad-components/library_kicad/LFpow
 LibName6=/home/dnvetrov/git/Open-Laboratory/kicad-components/library_kicad/LFresistor
 LibName7=/home/dnvetrov/git/Open-Laboratory/kicad-components/library_kicad/LFtransformator
 LibName8=/home/dnvetrov/git/Open-Laboratory/kicad-components/library_kicad/LFtransistor
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
